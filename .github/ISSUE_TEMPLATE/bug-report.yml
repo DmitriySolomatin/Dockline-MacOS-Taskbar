@@ -1,0 +1,52 @@
+name: Report a bug (English)
+description: Tell us what is not working in Dockline.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing issues first. For ideas, use [Discussions](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/ideas).
+        This report will be public. For purchases or account access, email help@getdockline.app.
+  - type: input
+    id: version
+    attributes:
+      label: Dockline version and build
+      description: See Settings → Updates.
+      placeholder: e.g. 2.0 (210)
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      description: See Apple menu → About This Mac. Do not include your serial number.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we reproduce it?
+      description: List the steps. If it happens only sometimes, say so.
+      placeholder: |
+        1. Open…
+        2. Click…
+        3. …
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra details (optional)
+      description: Relevant settings, displays, Spaces, or a screenshot. Remove personal information from any attachment; full diagnostic logs are not required.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before posting
+      options:
+        - label: I have removed private information, license keys, passwords, and sign-in codes.
+          required: true

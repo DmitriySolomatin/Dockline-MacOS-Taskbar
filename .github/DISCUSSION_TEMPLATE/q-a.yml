@@ -1,0 +1,17 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask in English or Russian. For purchases or account access, email help@getdockline.app instead of posting private details here.
+        Пишите по-русски или по-английски. По вопросам покупок и доступа к аккаунту обращайтесь на help@getdockline.app, не публикуйте личные данные.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question / Ваш вопрос
+      description: What are you trying to do? Что хотите сделать?
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried? (optional) / Что уже пробовали? (необязательно)

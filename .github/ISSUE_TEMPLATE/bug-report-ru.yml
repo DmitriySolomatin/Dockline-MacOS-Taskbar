@@ -1,0 +1,52 @@
+name: Сообщить об ошибке (Русский)
+description: Расскажите, что не работает в Dockline.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Сначала поищите похожую ошибку. Идеи оставляйте в [Discussions](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/ideas).
+        Сообщение будет публичным. По вопросам покупок и доступа к аккаунту пишите на help@getdockline.app.
+  - type: input
+    id: version
+    attributes:
+      label: Версия и сборка Dockline
+      description: Указаны в «Настройки → Обновления».
+      placeholder: Например, 2.0 (210)
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: Версия macOS
+      description: Меню Apple → Об этом Mac. Серийный номер указывать не нужно.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как повторить ошибку?
+      description: Опишите действия по шагам. Если ошибка возникает не всегда, напишите об этом.
+      placeholder: |
+        1. Открыть…
+        2. Нажать…
+        3. …
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Что произошло и что должно было произойти?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Дополнения (необязательно)
+      description: Важные настройки, мониторы, рабочие столы или снимок экрана. Уберите личные данные из вложений. Полный отчёт диагностики не требуется.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Перед отправкой
+      options:
+        - label: Я убрал личные данные, ключи лицензий, пароли и коды входа.
+          required: true

@@ -1,0 +1,25 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        English or Russian is welcome. Search existing ideas first; you can upvote one you like.
+        Можно писать по-русски или по-английски. Сначала поищите похожую идею и поддержите её, если она вам подходит.
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to improve? / Что хотите улучшить?
+      description: Describe the task or difficulty. Опишите задачу или неудобство.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Your idea / Ваша идея
+      description: What would make it easier? Как это сделать удобнее?
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples (optional) / Примеры (необязательно)
+      description: Add a sketch or example without private information. Можно добавить набросок или пример без личных данных.
