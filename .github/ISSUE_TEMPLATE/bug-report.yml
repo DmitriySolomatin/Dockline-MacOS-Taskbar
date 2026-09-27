@@ -1,4 +1,4 @@
-name: Report a bug (English)
+name: Report a bug
 description: Tell us what is not working in Dockline.
 body:
   - type: markdown

@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Suggest an improvement / Предложить улучшение
+  - name: Suggest an improvement
     url: https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/ideas
-    about: Share an idea or support an existing one. Расскажите об идее или поддержите существующую.
-  - name: Ask a question / Задать вопрос
+    about: Share an idea or support an existing one.
+  - name: Ask a question
     url: https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/q-a
-    about: Get help using Dockline. Помощь с использованием приложения.
+    about: Get help using Dockline.

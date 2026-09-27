@@ -2,7 +2,7 @@
 
 A taskbar for your Mac: see open windows, switch between tasks, and keep your workspace organised.
 
-[Website](https://getdockline.app/) · [Русский](README.ru.md)
+[Website](https://getdockline.app/)
 
 ## Feedback
 
@@ -10,7 +10,7 @@ A taskbar for your Mac: see open windows, switch between tasks, and keep your wo
 - **Have an idea?** [Suggest an improvement](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/ideas).
 - **Need help using Dockline?** [Ask a question](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/q-a).
 
-English and Russian are welcome. Please search existing reports first. Add to a matching discussion instead of opening a duplicate.
+Please search existing reports first. Add to a matching discussion instead of opening a duplicate.
 
 ## Keep private information private
 
