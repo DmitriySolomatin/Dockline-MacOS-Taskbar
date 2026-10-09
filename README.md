@@ -29,6 +29,8 @@ See these choices in the [website demo](https://getdockline.app/#features). The 
 
 These guides use the English names shown in Dockline. The [online settings reference](https://getdockline.app/settings/) is available in the app's 15 languages.
 
+For a comparison with the built-in macOS controls, read [Windows-style taskbar for Mac: Dock, Mission Control and window buttons](https://getdockline.app/guides/windows-style-taskbar-for-mac/). For a practical filter check, follow the [three-window example across two monitors and Spaces](https://getdockline.app/guides/mac-taskbar-multiple-monitors/).
+
 ## Install and get started
 
 The public installer supports **Apple silicon and Intel Macs running macOS 26.5 or later**. It is signed with Developer ID and notarized by Apple.

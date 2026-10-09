@@ -18,6 +18,8 @@ These choices filter the panel's list. They do not move your windows. For exampl
 
 If you are unsure, start with **Current display** and **All desktops**. You can keep each screen's panel local to that screen while still finding windows from its other desktops. Change one scope at a time so you can see its effect.
 
+To check those scopes step by step, use the [three-window example across two monitors and Spaces](https://getdockline.app/guides/mac-taskbar-multiple-monitors/). It shows which windows each panel should list and separates filtering from the optional beta transfers.
+
 ## Keep desktop sections understandable
 
 **Separate windows by desktop** is available with **Current display** and **All desktops**. It divides the listed windows into desktop sections. If a scope change disables the option, Dockline retains your choice for when that combination is available again.

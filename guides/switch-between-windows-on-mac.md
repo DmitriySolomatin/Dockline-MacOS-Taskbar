@@ -17,6 +17,8 @@ Keyboard layouts and customized shortcuts can change the keys you use. Apple doc
 
 These are useful starting points if you mainly navigate with a keyboard or want a temporary overview. A named taskbar is useful when you want the window choices to stay visible while you work.
 
+The [Windows-style taskbar for Mac guide](https://getdockline.app/guides/windows-style-taskbar-for-mac/) compares the Dock, Mission Control, App Exposé and persistent window buttons, with a three-window test to help you choose.
+
 ## Select a window by title in Dockline
 
 1. Open two ordinary document or browser windows. Give them distinct titles or content so you can tell them apart.
