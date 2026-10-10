@@ -40,6 +40,8 @@ The public installer supports **Apple silicon and Intel Macs running macOS 26.5 
 3. Allow **Accessibility** when you want Dockline to list and control windows. Turn on **Window previews** if you also want images in group lists; this asks for separate Screen Recording permission.
 4. Open two ordinary windows in an app you use, then select each by its title on the panel. Use **Settings → Windows and groups** to try the grouping choices.
 
+Follow the [installation and first-open guide](https://getdockline.app/support/#installation) for the full setup steps. If macOS prevents Dockline from opening, the [opening troubleshooting guide](https://getdockline.app/support/#opening-blocked) explains download confirmations and security warnings, and when to download a fresh copy or contact support.
+
 Trial starts automatically after setup when Dockline connects. All features are included for one calendar month. For a permission that has not taken effect, follow the [step-by-step guide](guides/window-previews-and-permissions.md).
 
 ## Price, trial and your Macs
