@@ -64,6 +64,8 @@ Dockline has 15 interface languages: English, Brazilian Portuguese, Turkish, Rus
 
 Read the [release history](https://getdockline.app/updates/) for changes in each version. You can also download the installer from [GitHub Releases](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/releases/latest).
 
+Follow the [update guide](https://getdockline.app/support/#updating) to check for a compatible version in Dockline or replace the app using the current DMG. If checking or installation fails, the [update troubleshooting guide](https://getdockline.app/support/#update-trouble) explains connection and security errors, and when to contact support.
+
 - [Report a bug](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/issues/new/choose) with the Dockline version, macOS version, affected app and exact steps to reproduce it. For display issues, include the number of displays and whether the window was on another Space, minimized or full screen.
 - [Ask a usage question](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/q-a) when you need help choosing settings.
 - [Suggest an improvement](https://github.com/DmitriySolomatin/Dockline-MacOS-Taskbar/discussions/categories/ideas) and describe the task it would help you complete.
