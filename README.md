@@ -42,6 +42,8 @@ The public installer supports **Apple silicon and Intel Macs running macOS 26.5 
 
 Follow the [installation and first-open guide](https://getdockline.app/support/#installation) for the full setup steps. If macOS prevents Dockline from opening, the [opening troubleshooting guide](https://getdockline.app/support/#opening-blocked) explains download confirmations and security warnings, and when to download a fresh copy or contact support.
 
+If the panel is missing after setup, follow the [panel visibility guide](https://getdockline.app/support/#panel-not-visible) to check whether Dockline is running, auto-hide, full-screen windows and the assigned shortcut. For starting Dockline when you sign in, the [launch at login guide](https://getdockline.app/support/#launch-at-login) explains the setting and macOS approval.
+
 Trial starts automatically after setup when Dockline connects. All features are included for one calendar month. For a permission that has not taken effect, follow the [step-by-step guide](guides/window-previews-and-permissions.md).
 
 ## Price, trial and your Macs
