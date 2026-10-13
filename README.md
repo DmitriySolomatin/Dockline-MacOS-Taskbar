@@ -31,6 +31,8 @@ These guides use the English names shown in Dockline. The [online settings refer
 
 For a comparison with the built-in macOS controls, read [Windows-style taskbar for Mac: Dock, Mission Control and window buttons](https://getdockline.app/guides/windows-style-taskbar-for-mac/). For a practical filter check, follow the [three-window example across two monitors and Spaces](https://getdockline.app/guides/mac-taskbar-multiple-monitors/).
 
+For a shortcut that stays on the panel, read [Pinned apps and open windows on Mac](https://getdockline.app/guides/pinned-apps-and-open-windows-on-mac/). It explains pinning and unpinning, choosing a document by title, and what to check when an app icon has no visible windows.
+
 ## Install and get started
 
 The public installer supports **Apple silicon and Intel Macs running macOS 26.5 or later**. It is signed with Developer ID and notarized by Apple.

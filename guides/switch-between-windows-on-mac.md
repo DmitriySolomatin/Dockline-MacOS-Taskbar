@@ -28,6 +28,8 @@ The [Windows-style taskbar for Mac guide](https://getdockline.app/guides/windows
 
 Dockline represents windows. Two tabs inside one browser window still belong to that one window; use the browser's tab controls to move between them.
 
+If an app icon has no visible document windows, follow [Pinned apps and open windows on Mac](https://getdockline.app/guides/pinned-apps-and-open-windows-on-mac/). The two-document example distinguishes a pinned app shortcut from an existing window and checks permissions and display or desktop filters before you reopen a document.
+
 ## Choose how much grouping you want
 
 Open **Settings → Windows and groups**. Two controls affect different parts of the panel:
